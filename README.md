@@ -1,73 +1,78 @@
-# Welcome to your Lovable project
+📦 Support AI – Order Tracking System
+📌 Overview
 
-## Project info
+Support AI ek intelligent order tracking system hai jo customers ko unke orders ka real-time status batata hai.
+Ye AI automatically order ID verify karta hai aur current location + delivery status show karta hai.
 
-**URL**: https://lovable.dev/projects/8afa96cb-b584-4555-8b4f-0feb47c32605
+🚀 Features
 
-## How can I edit this code?
+✅ Order ID se tracking
 
-There are several ways of editing your application.
+✅ Real-time order status
 
-**Use Lovable**
+✅ Delivery location updates
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8afa96cb-b584-4555-8b4f-0feb47c32605) and start prompting.
+✅ Estimated delivery date
 
-Changes made via Lovable will be committed automatically to this repo.
+✅ Customer support auto-reply system
 
-**Use your preferred IDE**
+✅ Simple & user-friendly interface
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+✅ API integration support
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🛠️ Technologies Used
 
-Follow these steps:
+Python / JavaScript
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Flask / Node.js
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+REST API
 
-# Step 3: Install the necessary dependencies.
-npm i
+Database (MySQL / MongoDB)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+AI/NLP Model for auto-response
 
-**Edit a file directly in GitHub**
+⚙️ How It Works
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+User apna Order ID enter karta hai
 
-**Use GitHub Codespaces**
+System database se order fetch karta hai
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+AI status analyze karta hai
 
-## What technologies are used for this project?
+Customer ko reply milta hai:
 
-This project is built with:
+📦 Order Packed
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🚚 Out for Delivery
 
-## How can I deploy this project?
+🏠 Delivered
 
-Simply open [Lovable](https://lovable.dev/projects/8afa96cb-b584-4555-8b4f-0feb47c32605) and click on Share -> Publish.
+📊 Example Response
+Order ID: #12345  
+Status: Out for Delivery 🚚  
+Current Location: Delhi Hub  
+Expected Delivery: 05 March 2026  
+🔐 Security Features
 
-## Can I connect a custom domain to my Lovable project?
+Secure API calls
 
-Yes, you can!
+Order ID validation
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Encrypted database connection
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+📈 Future Improvements
+
+WhatsApp integration
+
+Voice-based tracking
+
+Multi-language support
+
+Live delivery map
+
+👨‍💻 Developer
+
+Aditya Chamoli
+BCA Student | Tech & AI Enthusiast
+MIT Dhalwala, Rishikesh
